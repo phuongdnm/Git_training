@@ -9,3 +9,5 @@ Phuong added some code here
 DDuj mas nos chuws
 
 Feature moi o day
+
+print('DUC ANH BU CU');
