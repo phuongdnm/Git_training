@@ -57,6 +57,12 @@ balaaa
 balla
 }
 
+This a new icon {
+ <\
+ ?..
+ {}
+}
+
 Add a new product {
 add new product
 add new product
