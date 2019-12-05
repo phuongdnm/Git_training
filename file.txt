@@ -45,3 +45,9 @@ Another line from Praise.
 
 
 I'm sure this line will give you a conflict =D
+
+
+This is the login feature {
+bla bla bla
+bla bla bla
+}
