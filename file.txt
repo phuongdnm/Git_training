@@ -50,8 +50,15 @@ I'm sure this line will give you a conflict =D
 This is the login feature {
 bla bla bla
 bla bla bla
+}
 
 Logout feature { bals
 balaaa
 balla
 }
+
+Add a new product {
+add new product
+add new product
+}
+
