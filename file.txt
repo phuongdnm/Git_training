@@ -41,5 +41,7 @@ Day, conflict may Phuong day
 Practice with Praise 
 This is Praise
 
+Another line from Praise.
+
 
 I'm sure this line will give you a conflict =D
