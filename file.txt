@@ -1,4 +1,4 @@
-This is the first line in dev branch
+﻿This is the first line in dev branch
 
 Vu added some code here
 
@@ -38,4 +38,7 @@ Day, conflict may Phuong day
 
 
 
-Practice with Praise
+Practice with Praise 
+This is Praise
+
+
