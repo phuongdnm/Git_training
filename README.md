@@ -23,12 +23,12 @@ $ git merge upstream/dev
 - Then move to branch dev_yourname and merge the code using ```git merge dev```.
 - Now, put your code that you saved in step 1 out of the bucket:
 ```sh
-$ git stash
+$ git stash pop
 ```
 - Sometimes you will have a conflict, simply resolve the conflict using the technique that I've teached you!
 
 ## What you need to do AFTER YOU ADDED NEW THINGS:
 - Commit your code in your dev_name branch.
-- Checkout to dev branch and merge dev_name to it (using ```git checkout dev``` and ``git merge dev_yourname```).
+- Checkout to dev branch and merge dev_name to it (using ```git checkout dev``` and ```git merge dev_yourname```).
 - Push ```dev``` to your forked repo on Github.
 - Make a pull request in Github page (REMEMBER TO CHECK THE BRANCHES IS CORRECT OR NOT), tell me to review.
